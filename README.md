@@ -1,11 +1,11 @@
-About r-redshifttools
-=====================
+About r-redshifttools-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-redshifttools-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sicarul/redshiftTools
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-redshifttools-feedstock/blob/main/LICENSE.txt)
 
 Summary: Efficiently upload data into an Amazon Redshift database using the approach recommended by Amazon <https://aws.amazon.com/es/redshift/>.
 
